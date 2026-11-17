@@ -2,7 +2,7 @@
 
 Assignment for the **Operating Systems** course, IFRS Campus Canoas, 2026/1.
 Professor: Gustavo Neuberger.
-Student: *[your name here]*
+Student: Eduarda Caminski Roy e Leticia de Fraga Silva
 
 ## About
 
